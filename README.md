@@ -16,11 +16,11 @@ Now in 2025, I am posting them on GitHub because I got a great idea – to turn 
 I will be uploading **5 codes every day**.  
 Your task is to take these codes, solve the queries, and face the **challenge** that I have described below.  
 
- 🚀 Upload Progress  
+   🚀Upload Progress  
 
-📦 Codes Uploaded: **10 / 100+**  
+   📦Codes Uploaded: **10 / 100+**  
 
-▓▒▒▒▒▒▒▒▒▒▒▒▒▒ 10% Complete
+   ▓▒▒▒▒▒▒▒▒▒▒▒▒▒ 10% Complete
 
 ---
 
