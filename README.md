@@ -1,4 +1,4 @@
-# C Legacy Codes  
+# 🖥️ C Legacy CodesC Legacy Codes 📜 
 
 ## 📌 About  
 This repository contains my **C Legacy Codes** which I wrote on **Turbo C back in 2021–22**.  
@@ -37,6 +37,5 @@ But if you are using them on any **public platform**, please give proper **credi
 
 ---
 
-## 👤 Owner  
-**Harshil Gurjar**  
+👤 Owner: **Harshil Gurjar**  
 📧 Email: **hdgurjar2323@gmail.com**  
