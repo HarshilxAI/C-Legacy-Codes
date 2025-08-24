@@ -1,70 +1,42 @@
-# 🖥️ C Legacy Code – Turbo C Archive 🚀  
+# C Legacy Codes  
 
-This repository contains **100+ C programs** that I wrote during my early programming journey using the **Turbo C compiler**.  
-These codes cover **basics of C, strings, functions, pointers, structures, unions, and file handling**.  
-
----
-
-## ⚡ The Challenge  
-
-These programs were written for **Turbo C**, which means:  
-- ✅ They work perfectly on Turbo C  
-- ⚠️ They may **not run directly** on modern compilers like GCC / VS Code  
-
-👉 **Your challenge**:  
-Run these codes on VS Code **without using Turbo C**.  
-- Adapt them to modern C standards  
-- Debug, replace outdated functions, and make them compile successfully  
-
-If you succeed, you’ve proven your adaptability as a programmer 💪  
-
----
-
-## 🛠️ Hints for Modern Compilers  
-
-- Remove `#include <conio.h>`  
-- Replace `void main()` → `int main()`  
-- Replace `clrscr()` & `getch()` with standard I/O alternatives (`printf`, `getchar`)  
-
----
-
-## 📂 Repo Structure  
-
-- **Basics** → Loops, conditionals, arrays  
-- **Strings** → String handling functions  
-- **Functions & Recursion**  
-- **Pointers**  
-- **Structures & Unions**  
-- **File Handling**  
+## 📌 About  
+This repository contains my **C Legacy Codes** which I wrote on **Turbo C back in 2021–22**.  
+Now in 2025, I am posting them on GitHub because I got a great idea – to turn this into a **challenge for all of you**.  
 
 ---
 
 ## 📅 Upload Plan  
-
-I will upload **5 programs daily** until all 100+ codes are published.  
-Stay tuned to see this repo grow 📈  
-
----
-
-## 🌱 Why This Repo?  
-
-This repo is a part of my **coding journey** – from the Turbo C days to modern development.  
-I am keeping these codes **as-is** to preserve my learning foundation and to challenge other developers.  
+I will be uploading **5 codes every day**.  
+Your task is to take these codes, solve the queries, and face the **challenge** that I have described below.  
 
 ---
 
-## 🤝 Contributions  
+## ⚡ The Challenge  
+These are **C language codes** that were originally written on **Turbo C**.  
+Your challenge is to **download these codes**, run them on **VS Code** (or any modern compiler), and make sure they work.  
 
-Fork this repo, modernize the codes, and share your updated version.  
-I’d love to see how others approach this challenge 🚀  
+👉 If you think you are **really good at coding**, then prove it by running these old-school Turbo C codes on your modern setup without using Turbo C.  
+
+I will also provide you with some hints, but the real test is whether you can adapt and debug them successfully.  
+
+---
+
+## 🛠️ Hints  
+- Remove `#include <conio.h>`  
+- Replace `void main()` → `int main()`  
+- `clrscr()` is not required in modern compilers  
+- Use `getchar()` instead of `getch()`  
+- Some functions behave differently on Turbo C vs GCC – so if you’ve been coding for a while, you’ll know how to fix them 😉  
 
 ---
 
 ## 📜 License  
-
-This project is free to use. Just give credit if you reuse it 🙌  
+You are free to use these codes for learning and practice.  
+But if you are using them on any **public platform**, please give proper **credit** to the original author.  
 
 ---
 
-⚡ **Note**: This repo is meant as a **learning archive & challenge repo**.  
-For **modern problem-solving**, check my upcoming **DSA in C** repo.  
+## 👤 Owner  
+**Harshil Gurjar**  
+📧 Email: **hdgurjar2323@gmail.com**  
