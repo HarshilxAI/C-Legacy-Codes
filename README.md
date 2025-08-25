@@ -18,9 +18,9 @@ Your task is to take these codes, solve the queries, and face the **challenge** 
 
    🚀Upload Progress  
 
-   📦Codes Uploaded: **10 / 100+**  
+   📦Codes Uploaded: **15 / 100+**  
 
-   ▓▒▒▒▒▒▒▒▒▒▒▒▒▒ 10% Complete
+   ▓▓▒▒▒▒▒▒▒▒▒▒▒▒ 15% Complete 
 
 ---
 
