@@ -20,7 +20,7 @@ Your task is to take these codes, solve the queries, and face the **challenge** 
 
    📦Codes Uploaded: **30 / 100+**  
 
-  ▓▓▓▓▓▒▒▒▒▒▒▒▒▒ 30% Complete
+ ▓▓▓▓▓▓▒▒▒▒▒▒▒▒ 35% Complete
 ---
 
  ⚡ The Challenge  
