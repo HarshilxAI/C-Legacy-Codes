@@ -1,7 +1,7 @@
 # 🖥️ C Legacy Codes 📜 
 
  📌 About  
-This repository contains my **C Legacy Codes** which I wrote on **Turbo C back in 2021–22**.  
+This repository contains my **C Legacy Codes** which I wrote on **Turbo C back in 2023**.  
 Now in 2025, I am posting them on GitHub because I got a great idea – to turn this into a **challenge for all of you**.  
 
 ---
