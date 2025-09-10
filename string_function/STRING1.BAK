@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+#include <string.h>
+void main()
+{
+  char ch[11]={'d','r','s','h','i','l', '\0'};
+   char ch2[11]="darshil";
+
+   printf("Char Array Value is: %s\n", ch);
+   printf("String Literal Value is: %s\n", ch2);
+	 getch();
+	}

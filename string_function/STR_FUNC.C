@@ -1,0 +1,47 @@
+#include<stdio.h>
+#include<conio.h>
+#include <string.h>
+void main()
+{
+  char ch1[11]="hello";
+
+   char ch2[11]=" darshil";
+   char ch3[11];
+   char str1[11],str2[11];
+
+
+   clrscr();
+
+   printf("Char Array Value is: %s\n", ch1);
+   printf("String Literal Value is: %s\n", ch2);
+
+   printf("\nlength of string= %d",strlen(ch2));
+
+   strcpy(ch3,ch2);
+   printf("\ncopy ch2 to ch3=%s",ch3);
+   printf("\n");
+
+   strcat(ch1,ch2);
+   printf("\nconcate ch2 to ch3=%s",ch1);
+   printf("\n");
+
+   printf("\n check string compare");
+   printf("\n enter string1");
+   gets(str1);
+
+   printf("\n enter string2");
+   gets(str2);
+   if(strcmp(str1,str2)==0)
+   {
+	printf("\nboth are same");
+   }
+   else
+   {
+	printf("\n both r not same");
+   }
+   printf("\nlowercase string=%s",strlwr(str1));
+   printf("\nupper case sting=%s",strupr(str2));
+
+   printf("\nreverse string=%s",strrev(str1));
+	 getch();
+	}
