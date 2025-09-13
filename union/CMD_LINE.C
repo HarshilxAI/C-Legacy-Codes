@@ -12,4 +12,5 @@ void main(int argc,char *argv[])
 		printf("first argu is=%s\n",argv[1]);
 	}
 	getch();
-}
+
+} 
