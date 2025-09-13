@@ -1,0 +1,3 @@
+id=1
+iname=aa
+salary=22322.000000

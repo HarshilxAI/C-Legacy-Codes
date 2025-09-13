@@ -1,0 +1,26 @@
+#include<stdio.h>
+#include<conio.h>
+#include<stdlib.h>
+void main()
+{
+	int n,i,*ptr,sum;
+	clrscr();
+	sum=0;
+	printf("enter no of element");
+	scanf("%d",&n);
+	ptr=(int *)calloc(n*sizeof(int));
+	if(ptr==NULL)
+	{
+	printf("sorry unable to allocation");
+	exit(0);
+	}
+	printf("\nenter  array ele");
+	for(i=0;i<n;++i)
+	{
+		scanf("%d",ptr+i);
+		sum=sum + *(ptr+i);
+	}
+	printf("sum=%d",sum);
+	free(ptr);
+	getch();
+}

@@ -1,0 +1,15 @@
+//fseek() can  write data into file from specific location
+//offset= SEEK_SET SEEK_CUR SEEK_END
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+	FILE *fp;
+	clrscr();
+	fp=fopen("c:\\c_prog\\union\\myfile2.txt","w+");
+	fputs("java",fp);
+	fseek(fp,15,SEEK_SET);
+	fputs("php",fp);
+	fclose(fp);
+	getch();
+}

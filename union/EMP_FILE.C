@@ -1,0 +1,30 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+	FILE *fp;
+	int id;
+	char name[30];
+	float sal;
+	clrscr();
+	fp=fopen("G:\emp.txt","w+");
+	if(fp==NULL)
+	{
+	printf("file does not exist\n");
+	return;
+	}
+	printf("enter id\n");
+	scanf("%d",&id);
+	fprintf(fp,"id=%d\n",id);
+
+	printf("enter name\n");
+	scanf("%s",&name);
+	fprintf(fp,"iname=%s\n",name);
+
+	printf("enter salary\n");
+	scanf("%f",&sal);
+	fprintf(fp,"salary=%f\n",sal);
+      //	printf("your data success write");
+	fclose(fp);
+	getch();
+}
